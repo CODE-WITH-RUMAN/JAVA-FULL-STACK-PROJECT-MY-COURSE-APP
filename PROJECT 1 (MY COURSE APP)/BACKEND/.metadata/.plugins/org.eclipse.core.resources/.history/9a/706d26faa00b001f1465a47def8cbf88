@@ -1,0 +1,5 @@
+package com.myapps.mycourseapp.service;
+
+public class DaoService {
+
+}

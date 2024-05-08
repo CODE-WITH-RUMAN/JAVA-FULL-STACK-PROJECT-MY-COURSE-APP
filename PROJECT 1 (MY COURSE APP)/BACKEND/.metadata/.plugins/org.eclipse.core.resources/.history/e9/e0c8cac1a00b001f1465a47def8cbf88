@@ -1,0 +1,5 @@
+package com.myapps.mycourseapp.repository;
+
+public interface DaoRepo {
+
+}
